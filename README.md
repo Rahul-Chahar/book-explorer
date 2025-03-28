@@ -6,15 +6,15 @@ Book Explorer is a dynamic web application that allows users to search, browse, 
 
 ## 🚀 Live Demo
 
-[View Live Project](https://your-username.github.io/book-explorer)
+[View Live Project](https://rahul-chahar.github.io/book-explorer/)
 
 ## 📸 Screenshots
 
 ### Light Mode
-![Book Explorer Light Mode](/screenshots/light-mode.png)
+![Book Explorer Light Mode](/Screenshot%202025-03-28%20212923.png)
 
 ### Dark Mode
-![Book Explorer Dark Mode](/screenshots/dark-mode.png)
+![Book Explorer Dark Mode](/Screenshot%202025-03-28%20212859.png)
 
 ## ✨ Features
 
@@ -38,7 +38,7 @@ Book Explorer is a dynamic web application that allows users to search, browse, 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/book-explorer.git
+git clone https://github.com/rahul-chahar/book-explorer.git
 ```
 
 2. Navigate to the project directory
@@ -94,17 +94,10 @@ Fully responsive and works on:
 - Optimized rendering
 - Smooth theme transitions
 
-## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🙌 Acknowledgements
 
 - Font Awesome for icons
 - Free Books API for book data
 
-## 📞 Contact
-
-Your Name - [Your Email]
-
-Project Link: [https://github.com/your-username/book-explorer](https://github.com/your-username/book-explorer)
