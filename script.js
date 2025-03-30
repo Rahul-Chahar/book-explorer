@@ -336,4 +336,4 @@ themeSwitch.addEventListener('click', toggleTheme);
 // Start the app when DOM is fully loaded
 document.addEventListener('DOMContentLoaded', initApp);
 
-initTheme(); //
+initTheme(); 
